@@ -18,6 +18,7 @@
     "hardhat": "^2.9.3"
   },
   "dependencies": {
+    "@thirdweb-dev/contracts": "^2.3.6",
     "dotenv": "^16.0.1"
   }
 }
